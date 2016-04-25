@@ -1,3 +1,10 @@
-h1. Assembla.readme
+h1. Sourcecode Backup of the OBS (Classic) - 
+Simple Scene Switcher Plugin
 
-In assembla you can use "textile(Textile Basics)":http://bit.ly/textile-basics, "html(Html Basics)":http://bit.ly/html-basics or "markdown(Markdown Basics)":http://bit.ly/markdown-basics to add some sugar to your readme files. Just add the extention to your readme file, so we can recognize the markup you want to use!
+The plugin is now a part of OBS (Classic). Updated code can be found here: 
+https://github.com/jp9000/OBS/tree/master/scenesw
+
+Originally it was created by ThoNohT and chris84
+See: https://obsproject.com/forum/resources/simple-scene-switcher.29/ for more Info  
+
+This repository is just a backup of the Original. There will be no updates on this repository.
