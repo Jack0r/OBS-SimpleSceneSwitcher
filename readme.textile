@@ -7,4 +7,5 @@ https://github.com/jp9000/OBS/tree/master/scenesw
 Originally it was created by ThoNohT and chris84
 See: https://obsproject.com/forum/resources/simple-scene-switcher.29/ for more Info  
 
-This repository is just a backup of the Original. There will be no updates on this repository.
+I am not the author or creator of this Tool. ThoNoht and chris84 created it and 
+I just got the code from them. I host it here so it will never get lost. 
